@@ -1,16 +1,12 @@
 # to_do_app
+𝑯𝒆𝒍𝒍𝒐 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚,
 
-A new Flutter project.
+I am excited to share a recent project from my previous semester where we integrated a database with software. For this, I chose to work with Flutter and DBMS, marking my first venture into database management systems.
 
-## Getting Started
+Under the guidance of Sir Zaeem Tariq, I developed a ToDo App 📱 that utilizes the Sqflite plugin for Flutter, implementing the core principles of CRUD (Create, Read, Update, Delete) operations.
 
-This project is a starting point for a Flutter application.
+I hope this project showcases my growing skills in software development and database management.
 
-A few resources to get you started if this is your first Flutter project:
+Looking forward to your feedback! 👍
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+hashtag#dbms hashtag#todoapp hashtag#flutter hashtag#sqflite hashtag#project hashtag#ubit
